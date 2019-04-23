@@ -10,3 +10,20 @@
 1554817482 l:\i курс\А-3-18\kopylov\sem2\lab03\histogram.cpp
 	"histogram.h"
 
+1556022451 source:c:\users\u211-03\desktop\laba\lab03\histogram.cpp
+	"histogram.h"
+
+1556017549 c:\users\u211-03\desktop\laba\lab03\histogram.h
+	<vector>
+
+1556021312 source:c:\users\u211-03\desktop\laba\lab03\main.cpp
+	<iostream>
+	<vector>
+	"histogram.h"
+	"histogram_show.h"
+
+1556021625 c:\users\u211-03\desktop\laba\lab03\histogram_show.h
+	<iostream>
+	<vector>
+	"histogram.h"
+

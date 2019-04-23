@@ -13,3 +13,13 @@
 	"../histogram.h"
 	<cassert>
 
+1556023414 source:c:\users\u211-03\desktop\laba\lab03\histogram.cpp
+	"histogram.h"
+
+1556023516 c:\users\u211-03\desktop\laba\lab03\histogram.h
+	<vector>
+
+1556023495 source:c:\users\u211-03\desktop\laba\lab03\lab03-test\test.cpp
+	"../histogram.h"
+	<cassert>
+

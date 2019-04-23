@@ -38,6 +38,8 @@
 		<Unit filename="histogram.h">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
+		<Unit filename="histogram_show.cpp" />
+		<Unit filename="histogram_show.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />
